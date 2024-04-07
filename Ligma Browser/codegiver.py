@@ -8,7 +8,7 @@ class MyWebBrowser(QMainWindow):
         super().__init__()
 
         self.window = QWidget()
-        self.window.setWindowTitle("Ligma Browser")
+        self.window.setWindowTitle("Ligma Browser code giver")
 
         self.layout = QVBoxLayout()
         self.horizontal = QHBoxLayout()

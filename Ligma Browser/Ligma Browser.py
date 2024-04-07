@@ -40,7 +40,7 @@ class MyWebBrowser(QMainWindow):
         self.layout.addLayout(self.horizontal)
         self.layout.addWidget(self.browser)
 
-        self.browser.setUrl(QUrl("https://google.com"))
+        self.browser.setUrl(QUrl("https://liamliamliam123.github.io/Ligma-Home-Page/"))
 
         self.window.setLayout(self.layout)
         self.window.show()
@@ -56,3 +56,4 @@ class MyWebBrowser(QMainWindow):
 app = QApplication([])
 window = MyWebBrowser()
 app.exec_()
+

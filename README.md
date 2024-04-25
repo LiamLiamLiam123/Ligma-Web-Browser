@@ -8,7 +8,7 @@ some website may not work due to your ports and not because of the browser also 
 
 WARNING:
 You must have python and have the modules PyQt5 and PyQtWebEngine installed if not then download python (if you have not already) and open cmd with the WIN key + R and type
-"pip install PyQt5" and "pip install PyQtWebEngine"
+"pip install PyQt5" and "pip install PyQtWebEngine" DO NOT COPY THE COMMANDS WITH THE "" IT WON'T WORK!
 
 Updates:
 1.      Password tester

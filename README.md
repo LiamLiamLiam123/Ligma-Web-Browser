@@ -10,6 +10,8 @@ WARNING:
 You must have python and have the modules PyQt5 and PyQtWebEngine installed if not then download python (if you have not already) and open cmd with the WIN key + R and type
 "pip install PyQt5" and "pip install PyQtWebEngine" DO NOT COPY THE COMMANDS WITH THE "" IT WON'T WORK!
 
+EXE VERSION: https://drive.google.com/drive/folders/1F8WR8rJbLcDMDm9EhXX18uDYlJzCJtxL?usp=sharing 
+
 Updates:
 1.      Password tester
 2.      New tab for – for extra searches

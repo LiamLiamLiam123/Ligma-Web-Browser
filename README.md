@@ -1,5 +1,7 @@
 # Ligma-Web-Browser
 
+2026 update is out now (only for python file so far)
+
 This is my Browser that i made
 
 NOTE: 

@@ -15,8 +15,8 @@ You must have python and have the modules PyQt5 and PyQtWebEngine installed if n
 EXE VERSION: https://drive.google.com/drive/folders/1F8WR8rJbLcDMDm9EhXX18uDYlJzCJtxL?usp=sharing 
 
 Updates:
-1.      Password tester
-2.      New tab for – for extra searches
-3.      Settings (the 3 dot thing)
-4.      default https
-5.      Change dark mode and light mode(may not work)
+1.  Working Light/Dark Mode
+2.  Bookmarks
+3.  Save as PDF
+4.  view source page
+5.  
